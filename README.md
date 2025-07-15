@@ -1,6 +1,8 @@
 # MERN E-COMMERCE TUTORIAL
 
-<img scr="https://i.pinimg.com/1200x/5b/b7/09/5bb70961c9fecf370e6aaa2ae3431e60.jpg" />
+
+![Website UI](https://i.pinimg.com/1200x/5b/b7/09/5bb70961c9fecf370e6aaa2ae3431e60.jpg)
+
 
 # Install Dependencies
 
